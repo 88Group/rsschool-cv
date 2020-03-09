@@ -15,9 +15,9 @@
 * Important: Everyday I must help humankind to change their world better than never in their lives.
 * Desire: I want to discover and realize my mission in full potential.
 * Want: I want to transform the moment of recognition to moment of action as described well in 'The Matrix' because we live once and we must discover our freedom of being the 'One' and 'Unique'.
-* + My main strengths are analysis and synthesis of complex problems drawn on mind-maps.
-  + I like to be well prepared and plan everything before starting working on a project.
-  + I like to  work with my family members and as a supportive and friendly team mate I would like to inherit it to team projects as well.
++ My main strengths are analysis and synthesis of complex problems drawn on mind-maps.
++ I like to be well prepared and plan everything before starting working on a project.
++ I like to  work with my family members and as a supportive and friendly team mate I would like to inherit it to team projects as well.
 
 ### Skills 
 
@@ -29,6 +29,8 @@
  - Docker  
 
 ### Code examples
+
+42 coding school 'C' library project:
 
 https://github.com/HalimHamidov/21-projects/tree/master/libft/Solutions%20to%20libft/libft_with_comments_and_main.c
 
