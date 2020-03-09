@@ -24,9 +24,9 @@
 * programming languages: C, HTML, CSS, JavaScript
 * frameworks, methodologies, version control, tools: 
 
- - GIT   
- - Unix, Shell  
- - Docker  
+ + GIT   
+ + Unix, Shell  
+ + Docker  
 
 ### Code examples
 
